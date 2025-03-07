@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.Drinks.oksanatk", "Console.Drinks.oksanatk.csproj", "{3871E338-5EE4-4903-AEE4-60B9B6ADA06A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3871E338-5EE4-4903-AEE4-60B9B6ADA06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3871E338-5EE4-4903-AEE4-60B9B6ADA06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3871E338-5EE4-4903-AEE4-60B9B6ADA06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3871E338-5EE4-4903-AEE4-60B9B6ADA06A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D902AC6-89E8-4205-B2A0-174BF315C60E}
+	EndGlobalSection
+EndGlobal
