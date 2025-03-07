@@ -71,7 +71,6 @@ class MenuView
 
         foreach(PropertyInfo prop in drink.GetType().GetProperties())
         {
-            Type type = Nullable.GetUnderlyingType(prop.PropertyType) ?? prop.PropertyType;
             if (!String.IsNullOrEmpty(prop.GetValue(drink)?.ToString()))
             {
                 switch (prop.Name)
