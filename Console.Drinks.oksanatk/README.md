@@ -1,8 +1,8 @@
 # DrinksInfo ![C#](https://img.shields.io/badge/C%23-blue.svg)
 
-Simple Console app written in C# that uses HttpClient to get 
-data and display 
-data about drinks from a free RESTful 
+Simple Console app written in C# that uses HttpClient to get
+data and display
+data about drinks from a free RESTful
 [drinks API](https://www.thecocktaildb.com/api.php)
 
 ## ✅ Given Requirements
@@ -30,20 +30,21 @@ data about drinks from a free RESTful
   
   🔹 Sprectre.Console Selection Menu helps make selecting a
     drink easy and error-free
-    
+
   🔹 Spectre.Console use of colors to markup drink display
 
 <img src="https://github.com/user-attachments/assets/a52ce9c0-0261-4475-bdaa-980060e31f32" width="200">
 <img src="https://github.com/user-attachments/assets/82ea8e0f-5f63-4783-9028-52dc2f7e44d6" width="600">
 
 ## 🔥 Challenges / Lessons Learned
+
   - JSON Drinks objects were nested in a root object of drinks[].
     This created a bit of a challenge in reading it into a Drink
     object. but...
+
   - A bigger issue was trying to read all of the ingredients
     and their respective measurments into a IngredientMeasures
     Dictionary
-
 
 ## 🌟 Things I Did Well
 
